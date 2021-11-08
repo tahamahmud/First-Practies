@@ -34,8 +34,8 @@ p{
 .button{
     background-image: linear-gradient(tomato, yellow  );
     padding: 10px 40px;
-    border: 8px solid rgb(223, 238, 89);
-    border-radius: 5px;
+    border: 8px solid rgb(252, 252, 118);
+    border-radius: 20px;
     text-decoration: none;
     font-weight: 700;
     color: cornsilk;
