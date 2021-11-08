@@ -2,7 +2,7 @@ body{
     margin: 0%;
 }
 .top-banner{
-    background-image: url(pic/top-banner.png);
+    background-image: url(Pic/top-banner.png);
     background-repeat: no-repeat;
     display: flex;
 }
@@ -41,7 +41,7 @@ p{
     color: cornsilk;
 }
 .second-banner{
-    background-image: url(pic/dream-bg.png);
+    background-image: url(Pic/dream-bg.png);
     background-repeat: no-repeat;
     display: flex;
     background-position:right;
